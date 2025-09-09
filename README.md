@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Suelen Souza de Castro  
 
-<!--
-**Suelen-Castro/Suelen-Castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [FATEC Jacareí]  
+💻 Apaixonada por **Desenvolvimento Web, Banco de Dados e Programação**  
+🌱 Atualmente aprendendo **JavaScript, TypeScript, Node.js e PostgreSQL**  
+📚 Interesse em **Front-end, Back-end e Modelagem de Dados**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas  
+
+- **Linguagens:** JavaScript, TypeScript, SQL  
+- **Front-end:** HTML5, CSS3, Bootstrap, React  
+- **Back-end:** Node.js, Express  
+- **Banco de Dados:** PostgreSQL  
+- **Ferramentas:** Git, GitHub, Figma, DBeaver, VS Code  
+
+---
+
+## 📌 Projetos em Destaque  
+
+- [🔗 Aplicação Web para Visualização de Horários de Aula e Ambientes](https://github.com/seu-usuario/seu-projeto)  
+- [🔗 API da Mega-Sena com Node.js e PostgreSQL](https://github.com/seu-usuario/seu-projeto)  
+- [🔗 Exercícios e Estudos de JavaScript](https://github.com/seu-usuario/seu-projeto)  
+
+---
+
+## 📫 Contato  
+
+- ✉️ Email: **seuemail@email.com**  
+- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- 🖥️ Portfólio: [seu-site.com](https://seu-site.com)  
+
+---
+
+⭐️ Feito com dedicação por **Suelen Souza de Castro**  
